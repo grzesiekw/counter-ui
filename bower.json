@@ -1,0 +1,29 @@
+{
+  "name": "counter-ui",
+  "version": "0.1.0",
+  "authors": [
+    "grzesiekw <g.wilkowicz@gmail.com>"
+  ],
+  "description": "Counter UI",
+  "moduleType": [
+    "node"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-route": "1.4.x",
+    "angular-resource": "1.4.x",
+    "angular-mocks": "1.4.x",
+    "jquery": "2.1.3",
+    "bootstrap": "3.3.4",
+    "bootstrap-select": "1.6.3",
+    "fontawesome": "4.3.0"
+  }
+}
